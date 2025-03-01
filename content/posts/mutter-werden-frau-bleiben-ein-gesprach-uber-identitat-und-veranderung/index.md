@@ -4,20 +4,16 @@ date = "2025-02-28"
 draft = false
 pinned = false
 tags = ["Interview", "Identität", "Mutter", "Frau"]
-image = "img_7744-1-.png"
+image = "img_7744-2-.png"
 description = ""
 +++
-
-
 {{<lead>}}In diesem Interview teilt eine Mutter ihre persönlichen Erfahrungen mit den Herausforderungen und Freuden des Mutterseins. Sie spricht über die Veränderungen ihres Selbstbildes, die Balance zwischen Mutterrolle und eigener Identität sowie die Freude, trotz der Anfangsschwierigkeiten, an der Mutterschaf.{{<lead>}}
 
+{{<box>}} Sara Starn ist eine 51 Jährige Frau und Mutter von zwei Kindern. Sie Lebt mit ihrer Familie seit 10 Jahren in Biel <!--StartFragment-->
 
+{{<box>}}
 
-
-
-{{<box>}} Sara Starn ist eine 51 Jährige Frau und Mutter von zwei Kindern. Sie Lebt mit ihrer Familie seit 10 Jahren in Biel{{<box>}}
-
-
+<!--EndFragment-->
 
 
 
@@ -35,7 +31,7 @@ Zuerst bist du recht fokussiert auf dein Kind. Ich merkte es gar nicht so. Vor d
 
 Dein Fokus ist überhaupt nicht mehr bei dir selbst, sondern komplett beim Kind. Deine eigenen Bedürfnisse werden in den Hintergrund gestellt, und das sollte ja auch so sein. Wenn du Mutter wirst, ist das einfach so. Aber du bist ja trotzdem immer noch eine Person, ein Mensch. Es ist wichtig, Dinge zu machen, die für dich stimmen, und dass du nicht die ganze Last auf das Kind überträgst. Ich merkte, jetzt, wo meine Kinder älter werden und mich nicht mehr für alles brauchen, musste ich den Fokus wieder etwas wegnehmen, sonst können sie keine eigene Identität entwickeln und als eigenständige Menschen wachsen
 
-![Sara Starns: 51 Jahre alt ](img_7744-1-.png)
+![Sara Starns (51 Jahre alt) In ihrem Wohnzimmer mit ihren zwei Hunden.](img_7744-1-.png)
 
 **Gibt es einen Aspekt deines Lebens, die du vermisst?**
 
