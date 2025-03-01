@@ -9,13 +9,9 @@ description = ""
 +++
 {{<lead>}}In diesem Interview teilt eine Mutter ihre persönlichen Erfahrungen mit den Herausforderungen und Freuden des Mutterseins. Sie spricht über die Veränderungen ihres Selbstbildes, die Balance zwischen Mutterrolle und eigener Identität sowie die Freude, trotz der Anfangsschwierigkeiten, an der Mutterschaf.{{<lead>}}
 
-{{<box>}} Sara Starn ist eine 51 Jährige Frau und Mutter von zwei Kindern. Sie Lebt mit ihrer Familie seit 10 Jahren in Biel <!--StartFragment-->
-
-{{<box>}}
+{{<box>}} Sara Starn ist eine 51 Jährige Frau und Mutter von zwei Kindern. Sie Lebt mit ihrer Familie seit 10 Jahren in Biel {{<box>}}
 
 <!--EndFragment-->
-
-
 
 **Nell Rothenbühler: Wie hast du die ersten Tage und Wochen als Mutter erlebt?**
 
